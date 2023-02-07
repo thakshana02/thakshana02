@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone)](https://git.io/typing-svg)
+
 <!--
 **thakshana02/thakshana02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
