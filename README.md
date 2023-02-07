@@ -19,7 +19,7 @@
 </a>
 </p>
 
-[![Thakshana's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HimashaHerath&custom_title=My%20Contributions&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Thakshana's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thakshana02&custom_title=My%20Contributions&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
